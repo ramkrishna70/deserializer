@@ -1,0 +1,23 @@
+{
+  "name": "xmldeserializer",
+  "version": "1.0.1",
+  "description": "Deserializer xml data to json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "run index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramkrishna70/deserializer.git"
+  },
+  "keywords": [
+    "xml",
+    "deserializer"
+  ],
+  "author": "Ram Krishna <ram.krishna@invincix.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ramkrishna70/deserializer/issues"
+  },
+  "homepage": "https://github.com/ramkrishna70/deserializer#readme"
+}
